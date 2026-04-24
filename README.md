@@ -1,4 +1,4 @@
-# 📚 Library Management System with Auto SMS
+# 📚 AutoLibReply
 
 The **Library Management System with Auto SMS** is a Flutter-based application designed to efficiently manage library operations. It provides separate dashboards for **Admin** and **Students**, enabling smooth book management, user interaction, and notifications.
 
