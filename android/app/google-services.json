@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631828263933",
+    "project_id": "autolibreply-2d34d",
+    "storage_bucket": "autolibreply-2d34d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631828263933:android:4d638494af188fb240df94",
+        "android_client_info": {
+          "package_name": "com.example.autolibreply"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKtPTzWLE3Ie9cs5M2Pz4X3dUlOxg2OI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
