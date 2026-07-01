@@ -142,7 +142,7 @@ flutter run
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Shrushti Handge**
 
 ---
